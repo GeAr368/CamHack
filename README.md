@@ -1,9 +1,9 @@
-# CamPhish
+# CamHack
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 ![cheese](https://drive.google.com/uc?export=view&id=1JfeCw8ukW0b2jONaRYXj0Rl34e-h1pL7)
 
 # What is CamHack?
-<p>CamPhish is techniques to take cam shots of target's phone fornt camera or PC webcam. CamPhish Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
+<p>CamHack is techniques to take cam shots of target's phone fornt camera or PC webcam. CamHack Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
 
 ## Features
 <p>In this tool I added two automatic webpage templates for engaged target on webpage to get more picture of cam</p>
@@ -38,6 +38,6 @@ bash camhack.sh
 ```
 ### Video Demo
 [![How to control android camera](https://img.youtube.com/vi/G_nNHrWwCOM/0.jpg)](https://www.youtube.com/watch?v=G_nNHrWwCOM)
-#### For More Video subcribe <a href="http://youtube.com/Muqeeviru">MuqeeVirus YouTube Channel</a>
+#### For More Video subcribe <a href="http://youtube.com/Muqeevirus">MuqeeVirus YouTube Channel</a>
 <p>CamHack is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamHack s inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
