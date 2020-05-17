@@ -1,5 +1,5 @@
 # CamHack
-Grab cam shots from target's phone front camera or PC webcam just sending a link.
+Grab cam shots from target's Mobile phone front camera or PC cam by just sending a link.
 ![cheese](https://drive.google.com/uc?export=view&id=1JfeCw8ukW0b2jONaRYXj0Rl34e-h1pL7)
 
 # What is CamHack?
