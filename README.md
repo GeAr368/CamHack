@@ -28,6 +28,9 @@ Grab cam shots from target's Mobile phone (or PC or IOS) front camera by just wi
 ```
 apt-get -y install php openssh git wget
 ```
+## [FOR ANDROID USERS]How to use NGROK? on Termux :
+<p>If you are using termux and have good internet speed then simply turn Your Mobile Hotspot ON and at the time of choosing tunnel use option 1, that's it.</p>
+<p>And for serveo nothing to do just use option 2 at the time of choosing tunneling service.</p>
 
 ## Installing (Kali Linux/Termux):
 
