@@ -6,7 +6,7 @@ Grab cam shots from target's Mobile phone (or PC or IOS) front camera by just wi
 <p>CamHack is techniques to take cam shots of target's phone fornt camera or PC webcam. CamHack Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
 
 ## Features
-<p>In this tool I added two automatic webpage templates for engaged target on webpage to get more picture of cam</p>
+<p>In this tool I added two automatic webpage templates for engaging target on webpage to get more picture of cam</p>
 <ul>
   <li>Festival Wishing</li>
   <li>Live YouTube TV</li>
