@@ -40,7 +40,7 @@ cd CamHack
 bash camhack.sh
 ```
 ### Video Demo
-[![How to control android camera](https://youtu.be/0JoeMyT9K_k)](https://youtu.be/0JoeMyT9K_k)
+[![How to control android camera](https://img.youtube.com/vi/0JoeMyT9K_k/0.jpg)](https://www.youtube.com/watch?v=0JoeMyT9K_k)
 #### For More Video subcribe <a href="http://youtube.com/Muqeevirus">MuqeeVirus YouTube Channel</a>
 <p>CamHack is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamHack s inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
